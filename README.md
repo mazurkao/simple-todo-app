@@ -1,5 +1,7 @@
 # ToDoアプリ
 
+![sample](https://user-images.githubusercontent.com/90911871/226097167-c966abbb-10a6-4877-b12a-99e602b97d7f.gif)
+
 シンプルなToDoアプリです。タスクを追加、編集、削除することができ、タスクの順序をドラッグアンドドロップで並べ替えることもできます。このアプリはHTML、CSS、JavaScriptで作成されています。
 
 ## 機能
@@ -21,4 +23,3 @@
 - HTML
 - CSS
 - JavaScript
-
